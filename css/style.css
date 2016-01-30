@@ -1,0 +1,19 @@
+.selected {
+	stroke-opacity: 1;
+	stroke: yellow;
+	fill-opacity: 0.8;
+}
+.unselected {
+	stroke-opacity: 0;
+	stroke: white;
+	fill-opacity: 1;
+}
+.selectedRow {
+	color: green;
+	font-weight: bold;
+	font-size: 125%;
+}
+
+#tableDiv {
+	font-size: 10px;
+}
